@@ -1,0 +1,7 @@
+D:\Programas\Cursos\C# ya\proyecto9.6\proyecto9.6\bin\Debug\proyecto9.6.exe.config
+D:\Programas\Cursos\C# ya\proyecto9.6\proyecto9.6\bin\Debug\proyecto9.6.exe
+D:\Programas\Cursos\C# ya\proyecto9.6\proyecto9.6\bin\Debug\proyecto9.6.pdb
+D:\Programas\Cursos\C# ya\proyecto9.6\proyecto9.6\obj\Debug\proyecto9.6.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\proyecto9.6\proyecto9.6\obj\Debug\proyecto9.6.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\proyecto9.6\proyecto9.6\obj\Debug\proyecto9.6.exe
+D:\Programas\Cursos\C# ya\proyecto9.6\proyecto9.6\obj\Debug\proyecto9.6.pdb
