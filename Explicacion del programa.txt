@@ -1,0 +1,3 @@
+Explicacion del programa:
+
+Es una app de consola que permite el ingreso de multilples alturas y muestra el promedio de las alturas ingresadas
